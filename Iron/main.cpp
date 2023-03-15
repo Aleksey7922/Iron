@@ -7,5 +7,5 @@ void main()
 	cout << a << " " << b << endl;
 	a ^= b ^= a ^= b;
 	cout << a << " " << b;
-}
+}O
 
